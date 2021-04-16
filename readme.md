@@ -4,7 +4,7 @@ TO DO:
 
 Change color scheme and tweak the CSS.
 
-Figure out why picture loads but does not show (maybe use a smaller file size)
+Figure out why picture uploads but does not show on the book view page. (used smaller size and still did not work)
 
 Figure out alternative code to use for deprecated parts in codebase.
 
