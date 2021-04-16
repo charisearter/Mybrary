@@ -123,7 +123,7 @@ async function renderEditPage(res, book, hasError = false) {
 	renderFormPage(res, book, "edit", hasError);
 }
 
-async function renderEditPage(res, book, form, hasError = false) {
+async function renderFormPage(res, book, form, hasError = false) {
 	try {
 		const authors = await Author.find({});
 		const params = {
